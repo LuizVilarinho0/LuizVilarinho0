@@ -14,11 +14,11 @@ e-commerce assistant <br>- 📚 I'm currently learning computer Science<br>
 <div align="left">
   <a href="www.linkedin.com/in/luiz-vilarinho-b0b5272b6" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/luizvilarinhoo/?next=%2F" target="_blank">
+  </a><a href="https://www.instagram.com/luizvilarinhoo/?next=%2F" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
 
 ###
 

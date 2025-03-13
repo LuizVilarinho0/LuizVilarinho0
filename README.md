@@ -1,4 +1,15 @@
-# Olá! Eu sou o Luiz Vilarinho 🖐️
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Luiz Vilarinho and I'm a Junior Developer, from SP, Bazil</p>
+
+###
+
+
+<h2 align="left">I code with</h2>
+
+###
 
 
 
@@ -6,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizvilarinhoo/?next=%2F)
 
 
-# Tecnologias que eu uso no meu dia 🖥️
+# My Techs 🖥️
 
 <div style="display: inline_block">
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">My name is Luiz Vilarinho and I'm a Junior Developer, from SP, Bazil 🇧🇷</p>
+<p align="left">My name is Luiz Vilarinho and I'm a Junior Developer, from SP, Brazil </p>
 
 ###
 
 
-<h2 align="left">I code with</h2>
+<h2 align="left"> Social Midia</h2>
 
 ###
 

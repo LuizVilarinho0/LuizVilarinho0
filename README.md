@@ -12,9 +12,7 @@ e-commerce assistant <br>- 📚 I'm currently learning computer Science<br>
 <h2 align="left"> Social Midia</h2>
 
 <div align="left">
-  <a href="www.linkedin.com/in/luiz-vilarinho-b0b5272b6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"  />
-  </a>
+
  </a><a href="https://www.instagram.com/luizvilarinhoo/?next=%2F" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>

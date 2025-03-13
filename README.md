@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luiz Vilarinho and I'm a Junior Developer, from SP, Bazil</p>
+<p align="left">My name is Luiz Vilarinho and I'm a Junior Developer, from SP, Bazil 🇧🇷</p>
 
 ###
 

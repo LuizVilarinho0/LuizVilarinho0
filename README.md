@@ -3,15 +3,13 @@
 ###
 
 <p align="left">My name is Luiz Vilarinho and I'm a Junior Developer, from SP, Brazil </p>
+<br>- 🔭 I’m working as 
+e-commerce assistant <br>- 📚 I'm currently learning computer Science<br>
 
 ###
 
 
 <h2 align="left"> Social Midia</h2>
-
-###
-
-
 
 <div align="left">
   <a href="www.linkedin.com/in/luiz-vilarinho-b0b5272b6" target="_blank">
@@ -21,6 +19,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
 
 ###
 
@@ -41,4 +41,4 @@
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizVilarinho0&show_icons=true&theme=radical)
 
 
-Apaixonado por tecnologia, estou sempre aprendendo e inovando. 
+Passionate about technology, I'm always learning and innovating.
